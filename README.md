@@ -4,7 +4,6 @@ Housing returns projections using monthly data on home prices over the past 20 y
 ## Overview 
 
 Name: Ronen Reouveni <br/>
-SUID: 631270747 <br/>
 Number: (858)-245-2128 <br/>
 Email: rreouven@syr.edu <br/>
 Program: Masters in Applied Data Science <br/>
